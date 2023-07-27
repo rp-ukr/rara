@@ -403,13 +403,6 @@ export const BLIPS_DATA: { type: number, color: number, position: Vector3Mp, nam
        
     },
     {
-        type: 303, 
-        color: 0,
-        position: new mp.Vector3(599.14, -435.99, 24.74),
-        name: "Бойцовский клуб"
-       
-    },
-    {
         type: 523, 
         color: 3,
         position: new mp.Vector3(-1160.78, -1733.07, 3.11),

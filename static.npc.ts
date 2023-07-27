@@ -307,7 +307,5 @@ export const STATIC_NPC_DATA: StaticNpcItem[] = [
     {x: -250.25, y: 6311.43, z: 32.43, h: 3, name: 'Doctor', model: "s_m_m_doctor_01", anim: ['', 'base']},
     // License city hospital
     {x: 304.24, y: -571.24, z: 86.93, h: 250, name: 'Doctor', model: "s_m_m_doctor_01", anim: ['', 'base']},
-    // Рефери на бойковском клубе
-    {x: 599.14, y: -435.99, z: 24.74, h: 267, name: 'Рефери', model: "u_m_m_edtoh", anim: ['', 'base']}
 
 ];

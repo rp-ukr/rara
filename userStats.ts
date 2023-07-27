@@ -7,8 +7,6 @@
     totalMoneyEarned: number
     totalKills: number
     totalDeaths: number
-    fightClubWins?: number
-    fightClubLoses?: number
 }
 
 export interface IUserStatsDto {
