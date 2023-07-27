@@ -1321,7 +1321,6 @@ const itemsList: itemConfig[] = [
     { item_id: 7030, name: "Черника", type: ITEM_TYPE.OTHER, weight: 0, base_weight: 400, prop: "ng_proc_food_ornge1a", default_count: 1, protect: true, need_group: true, canSplit: true},
     { item_id: 7031, name: "Еловое бревно", type: ITEM_TYPE.OTHER, weight: 0, base_weight: 400, prop: "ng_proc_food_ornge1a", default_count: 1, protect: true, need_group: true, canSplit: true},
 
-    { item_id: 8000, name: "Комплект автозвука", type: ITEM_TYPE.SYSTEM, weight: 0, base_weight: 1000, prop: "w_ar_railgun_mag1", default_count: 1, use: true, defaultCost: 200000 , protect: true},
     { item_id: 8001, name: "Автопилот", type: ITEM_TYPE.SYSTEM, weight: 0, base_weight: 1000, prop: "w_ar_railgun_mag1", default_count: 1, use: true, defaultCost: 2500000 , protect: true},
 
 
