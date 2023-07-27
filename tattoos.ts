@@ -372,6 +372,82 @@ export const tattoosShared = {
         ["Stone Cross", "multiplayer_overlays", "FM_Tat_M_044", "FM_Tat_F_044", "ZONE_TORSO", 14200, 262],
         ["Skulls and Rose", "multiplayer_overlays", "FM_Tat_M_045", "FM_Tat_F_045", "ZONE_TORSO", 17300, 263],
 
+        /* №6 Торс [568 - 639] custom + */
+        ["568", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_003_M", "mp_gta5rptattoo_tat_003_F", "ZONE_TORSO", 500, 568],
+        ["569", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_004_M", "mp_gta5rptattoo_tat_004_F", "ZONE_TORSO", 500, 569],
+        ["570", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_005_M", "mp_gta5rptattoo_tat_005_F", "ZONE_TORSO", 500, 570],
+        ["571", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_006_M", "mp_gta5rptattoo_tat_006_F", "ZONE_TORSO", 500, 571],
+        ["572", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_007_M", "mp_gta5rptattoo_tat_007_F", "ZONE_TORSO", 500, 572],
+        ["573", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_008_M", "mp_gta5rptattoo_tat_008_F", "ZONE_TORSO", 500, 573],
+        ["574", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_009_M", "mp_gta5rptattoo_tat_009_F", "ZONE_TORSO", 500, 574],
+        ["576", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_011_M", "mp_gta5rptattoo_tat_011_F", "ZONE_TORSO", 500, 576],
+        ["577", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_012_M", "mp_gta5rptattoo_tat_012_F", "ZONE_TORSO", 500, 577],
+        ["578", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_013_M", "mp_gta5rptattoo_tat_013_F", "ZONE_TORSO", 500, 578],
+        ["579", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_014_M", "mp_gta5rptattoo_tat_014_F", "ZONE_TORSO", 500, 579],
+        ["580", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_017_M", "mp_gta5rptattoo_tat_017_F", "ZONE_TORSO", 500, 580],
+        ["581", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_030_M", "mp_gta5rptattoo_tat_030_F", "ZONE_TORSO", 500, 581],
+        ["582", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_031_M", "mp_gta5rptattoo_tat_031_F", "ZONE_TORSO", 500, 582],
+        ["583", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_032_M", "mp_gta5rptattoo_tat_032_F", "ZONE_TORSO", 500, 583],
+        ["584", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_034_M", "mp_gta5rptattoo_tat_034_F", "ZONE_TORSO", 500, 584],
+        ["601", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_087_M", "mp_gta5rptattoo_tat_087_F", "ZONE_TORSO", 500, 601],
+        ["602", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_088_M", "mp_gta5rptattoo_tat_088_F", "ZONE_TORSO", 500, 602],
+        ["603", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_089_M", "mp_gta5rptattoo_tat_089_F", "ZONE_TORSO", 500, 603],
+        ["604", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_090_M", "mp_gta5rptattoo_tat_090_F", "ZONE_TORSO", 500, 604],
+        ["605", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_091_M", "mp_gta5rptattoo_tat_091_F", "ZONE_TORSO", 500, 605],
+        ["606", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_092_M", "mp_gta5rptattoo_tat_092_F", "ZONE_TORSO", 500, 606],
+        ["607", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_093_M", "mp_gta5rptattoo_tat_093_F", "ZONE_TORSO", 500, 607],
+        ["608", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_094_M", "mp_gta5rptattoo_tat_094_F", "ZONE_TORSO", 500, 608],
+        ["609", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_095_M", "mp_gta5rptattoo_tat_095_F", "ZONE_TORSO", 500, 609],
+        ["610", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_096_M", "mp_gta5rptattoo_tat_096_F", "ZONE_TORSO", 500, 610],
+        ["611", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_097_M", "mp_gta5rptattoo_tat_097_F", "ZONE_TORSO", 500, 611],
+        ["612", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_098_M", "mp_gta5rptattoo_tat_098_F", "ZONE_TORSO", 500, 612],
+        ["613", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_099_M", "mp_gta5rptattoo_tat_099_F", "ZONE_TORSO", 500, 613],
+        ["614", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_100_M", "mp_gta5rptattoo_tat_100_F", "ZONE_TORSO", 500, 614],
+        ["615", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_101_M", "mp_gta5rptattoo_tat_101_F", "ZONE_TORSO", 500, 615],
+        ["616", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_102_M", "mp_gta5rptattoo_tat_102_F", "ZONE_TORSO", 500, 616],
+        ["617", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_103_M", "mp_gta5rptattoo_tat_103_F", "ZONE_TORSO", 500, 617],
+        ["618", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_104_M", "mp_gta5rptattoo_tat_104_F", "ZONE_TORSO", 500, 618],
+        ["619", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_105_M", "mp_gta5rptattoo_tat_105_F", "ZONE_TORSO", 500, 619],
+        ["620", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_107_M", "mp_gta5rptattoo_tat_107_F", "ZONE_TORSO", 500, 620],
+        ["621", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_143_M", "mp_gta5rptattoo_tat_143_F", "ZONE_TORSO", 500, 621],
+        ["622", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_144_M", "mp_gta5rptattoo_tat_144_F", "ZONE_TORSO", 500, 622],
+        ["623", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_145_M", "mp_gta5rptattoo_tat_145_F", "ZONE_TORSO", 500, 623],
+        ["624", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_146_M", "mp_gta5rptattoo_tat_146_F", "ZONE_TORSO", 500, 624],
+        ["625", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_147_M", "mp_gta5rptattoo_tat_147_F", "ZONE_TORSO", 500, 625],
+        ["626", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_148_M", "mp_gta5rptattoo_tat_148_F", "ZONE_TORSO", 500, 626],
+        ["627", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_149_M", "mp_gta5rptattoo_tat_149_F", "ZONE_TORSO", 500, 627],
+        ["628", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_150_M", "mp_gta5rptattoo_tat_150_F", "ZONE_TORSO", 500, 628],
+        ["629", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_151_M", "mp_gta5rptattoo_tat_151_F", "ZONE_TORSO", 500, 629],
+        ["630", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_152_M", "mp_gta5rptattoo_tat_152_F", "ZONE_TORSO", 500, 630],
+        ["631", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_153_M", "mp_gta5rptattoo_tat_153_F", "ZONE_TORSO", 500, 631],
+        ["632", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_154_M", "mp_gta5rptattoo_tat_154_F", "ZONE_TORSO", 500, 632],
+        ["633", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_155_M", "mp_gta5rptattoo_tat_155_F", "ZONE_TORSO", 500, 633],
+        ["634", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_156_M", "mp_gta5rptattoo_tat_156_F", "ZONE_TORSO", 500, 634],
+        ["635", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_157_M", "mp_gta5rptattoo_tat_157_F", "ZONE_TORSO", 500, 635],
+        ["636", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_158_M", "mp_gta5rptattoo_tat_158_F", "ZONE_TORSO", 500, 636],
+        ["637", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_159_M", "mp_gta5rptattoo_tat_159_F", "ZONE_TORSO", 500, 637],
+        ["638", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_160_M", "mp_gta5rptattoo_tat_160_F", "ZONE_TORSO", 500, 638],
+        ["639", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_161_M", "mp_gta5rptattoo_tat_161_F", "ZONE_TORSO", 500, 639],
+
+        /* Мышцы tors */
+        ["585", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_047_M", "", "ZONE_TORSO", 500, 585],
+        ["586", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_048_M", "", "ZONE_TORSO", 500, 586],
+        ["587", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_049_M", "", "ZONE_TORSO", 500, 587],
+        ["588", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_050_M", "", "ZONE_TORSO", 500, 588],
+        ["589", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_051_M", "", "ZONE_TORSO", 500, 589],
+        ["590", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_052_M", "", "ZONE_TORSO", 500, 590],
+        ["591", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_053_M", "", "ZONE_TORSO", 500, 591],
+        ["592", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_054_M", "", "ZONE_TORSO", 500, 592],
+        ["593", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_071_F", "ZONE_TORSO", 500, 593],
+        ["594", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_072_F", "ZONE_TORSO", 500, 594],
+        ["595", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_073_F", "ZONE_TORSO", 500, 595],
+        ["596", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_074_F", "ZONE_TORSO", 500, 596],
+        ["597", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_075_F", "ZONE_TORSO", 500, 597],
+        ["598", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_076_F", "ZONE_TORSO", 500, 598],
+        ["599", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_077_F", "ZONE_TORSO", 500, 599],
+        ["600", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_078_F", "ZONE_TORSO", 500, 600],
+
+
 
 
 
@@ -379,9 +455,10 @@ export const tattoosShared = {
 
         /* №1 Левая рука [264 - 281] */
         ["Impotent RAGE", "singleplayer_overlays", "tp_033", "", "ZONE_LEFT_ARM", 13500, 264],
+
         //
         ["Трайбл - цветы", "mpbeach_overlays", "", "MP_Bea_F_LArm_000", "ZONE_LEFT_ARM", 14200, 265],
-        ["Рукав", "overlays_onyx", "onyx_tattoo_07_m", "onyx_tattoo_07_f", "ZONE_LEFT_ARM", 200000, 3001],
+        ["Рукав Коричневой краской", "overlays_onyx", "onyx_tattoo_07_m", "onyx_tattoo_07_f", "ZONE_LEFT_ARM", 200000, 3001],
         ["Попугай", "mpbeach_overlays", "", "MP_Bea_F_LArm_001", "ZONE_LEFT_ARM", 13500, 266],
         ["Башня тики", "mpbeach_overlays", "MP_Bea_M_LArm_000", "", "ZONE_LEFT_ARM", 11500, 267],
         ["Русалка - Лос-Сантос", "mpbeach_overlays", "MP_Bea_M_LArm_001", "", "ZONE_LEFT_ARM", 10900, 268],
@@ -398,6 +475,7 @@ export const tattoosShared = {
         ["Stop", "mphipster_overlays", "FM_Hip_M_Tat_034", "FM_Hip_F_Tat_034", "ZONE_LEFT_ARM", 12800, 279],
         ["Восход", "mphipster_overlays", "FM_Hip_M_Tat_037", "FM_Hip_F_Tat_037", "ZONE_LEFT_ARM", 16800, 280],
         ["Рукав", "mphipster_overlays", "FM_Hip_M_Tat_039", "FM_Hip_F_Tat_039", "ZONE_LEFT_ARM", 15800, 281],
+
 
         /* №2 Левая рука [282 - 299] */
         ["Белый треугольник", "mphipster_overlays", "FM_Hip_M_Tat_043", "FM_Hip_F_Tat_043", "ZONE_LEFT_ARM", 12600, 282],
@@ -478,6 +556,32 @@ export const tattoosShared = {
         ["Lady M", "multiplayer_overlays", "FM_Tat_M_031", "FM_Tat_F_031", "ZONE_LEFT_ARM", 16900, 351],
         ["Dope Skull", "multiplayer_overlays", "FM_Tat_M_041", "FM_Tat_F_041", "ZONE_LEFT_ARM", 15700, 352],
 
+        /* №5 Левая рука [640 - 660] custom */
+        ["640", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_000_M", "mp_gta5rptattoo_tat_000_F", "ZONE_LEFT_ARM", 500, 640],
+        ["641", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_001_M", "mp_gta5rptattoo_tat_001_F", "ZONE_LEFT_ARM", 500, 641],
+        ["642", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_019_M", "mp_gta5rptattoo_tat_019_F", "ZONE_LEFT_ARM", 500, 642],
+        ["643", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_026_M", "mp_gta5rptattoo_tat_026_F", "ZONE_LEFT_ARM", 500, 643],
+        ["644", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_027_M", "mp_gta5rptattoo_tat_027_F", "ZONE_LEFT_ARM", 500, 644],
+        ["645", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_028_M", "mp_gta5rptattoo_tat_028_F", "ZONE_LEFT_ARM", 500, 645],
+        ["646", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_033_M", "mp_gta5rptattoo_tat_033_F", "ZONE_LEFT_ARM", 500, 646],
+        ["647", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_039_M", "mp_gta5rptattoo_tat_039_F", "ZONE_LEFT_ARM", 500, 647],
+        ["654", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_121_M", "mp_gta5rptattoo_tat_121_F", "ZONE_LEFT_ARM", 500, 654],
+        ["655", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_122_M", "mp_gta5rptattoo_tat_122_F", "ZONE_LEFT_ARM", 500, 655],
+        ["656", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_123_M", "mp_gta5rptattoo_tat_123_F", "ZONE_LEFT_ARM", 500, 656],
+        ["657", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_124_M", "mp_gta5rptattoo_tat_124_F", "ZONE_LEFT_ARM", 500, 657],
+        ["658", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_125_M", "mp_gta5rptattoo_tat_125_F", "ZONE_LEFT_ARM", 500, 658],
+        ["659", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_126_M", "mp_gta5rptattoo_tat_126_F", "ZONE_LEFT_ARM", 500, 659],
+        ["660", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_127_M", "mp_gta5rptattoo_tat_127_F", "ZONE_LEFT_ARM", 500, 660],
+
+        /* Левая рука мышцы */
+        ["647", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_039_M", "", "ZONE_LEFT_ARM", 500, 647],
+        ["648", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_040_M", "", "ZONE_LEFT_ARM", 500, 648],
+        ["649", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_041_M", "", "ZONE_LEFT_ARM", 500, 649],
+        ["650", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_042_M", "", "ZONE_LEFT_ARM", 500, 650],
+        ["651", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_064_F", "ZONE_LEFT_ARM", 500, 651],
+        ["652", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_065_F", "ZONE_LEFT_ARM", 500, 652],
+        ["653", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_066_F", "ZONE_LEFT_ARM", 500, 653],
+
 
 
 
@@ -534,13 +638,35 @@ export const tattoosShared = {
         ["Flaming Scorpion", "multiplayer_overlays", "FM_Tat_M_042", "FM_Tat_F_042", "ZONE_RIGHT_LEG", 12900, 388],
         ["Indian Ram", "multiplayer_overlays", "FM_Tat_M_043", "FM_Tat_F_043", "ZONE_RIGHT_LEG", 13800, 389],
 
+        /* №6 Правая нога [721 - 739] custom */
+
+        ["730", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_141_M", "mp_gta5rptattoo_tat_141_M", "ZONE_RIGHT_LEG", 500, 730],
+        ["732", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_162_M", "mp_gta5rptattoo_tat_162_F", "ZONE_RIGHT_LEG", 500, 732],
+        ["733", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_163_M", "mp_gta5rptattoo_tat_163_F", "ZONE_RIGHT_LEG", 500, 733],
+        ["734", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_164_M", "mp_gta5rptattoo_tat_164_F", "ZONE_RIGHT_LEG", 500, 734],
+        ["735", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_165_M", "mp_gta5rptattoo_tat_165_F", "ZONE_RIGHT_LEG", 500, 735],
+        ["736", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_166_M", "mp_gta5rptattoo_tat_166_F", "ZONE_RIGHT_LEG", 500, 736],
+        ["737", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_167_M", "mp_gta5rptattoo_tat_167_F", "ZONE_RIGHT_LEG", 500, 737],
+        ["738", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_168_M", "mp_gta5rptattoo_tat_168_F", "ZONE_RIGHT_LEG", 500, 738],
+        ["739", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_169_M", "mp_gta5rptattoo_tat_169_F", "ZONE_RIGHT_LEG", 500, 739],
+
+        /* Правая нога мышцы*/
+        ["721", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_059_M", "", "ZONE_RIGHT_LEG", 500, 721],
+        ["722", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_060_M", "", "ZONE_RIGHT_LEG", 500, 722],
+        ["723", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_061_M", "", "ZONE_RIGHT_LEG", 500, 723],
+        ["724", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_062_M", "", "ZONE_RIGHT_LEG", 500, 724],
+        ["725", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_083_F", "ZONE_RIGHT_LEG", 500, 725],
+        ["726", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_084_F", "ZONE_RIGHT_LEG", 500, 726],
+        ["727", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_085_F", "ZONE_RIGHT_LEG", 500, 727],
+        ["728", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_086_F", "ZONE_RIGHT_LEG", 500, 728],
+
 
 
 
 
 
         /* №1 Правая рука [390 - 406] */
-        ["Рукав", "overlays_onyx", "onyx_tattoo_06_m", "onyx_tattoo_06_f", "ZONE_RIGHT_ARM", 200000, 3002],
+        ["Рукав коричневые краски", "overlays_onyx", "onyx_tattoo_06_m", "onyx_tattoo_06_f", "ZONE_RIGHT_ARM", 200000, 3002],
         ["Трайбл - рыба", "mpbeach_overlays", "", "MP_Bea_F_RArm_001", "ZONE_RIGHT_ARM", 12100, 390],
         ["Узор Солнце", "mpbeach_overlays", "MP_Bea_M_RArm_000", "", "ZONE_RIGHT_ARM", 13400, 391],
         ["Красотка из Веспуччи", "mpbeach_overlays", "MP_Bea_M_RArm_001", "", "ZONE_RIGHT_ARM", 12900, 392],
@@ -634,6 +760,37 @@ export const tattoosShared = {
         ["Dagger", "multiplayer_overlays", "FM_Tat_M_038", "FM_Tat_F_038", "ZONE_RIGHT_ARM", 17800, 472],
         ["Lion", "multiplayer_overlays", "FM_Tat_M_047", "FM_Tat_F_047", "ZONE_RIGHT_ARM", 18600, 473],
 
+        /* №6 Правая рука [661 - 687] custom */
+        ["661", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_018_M", "mp_gta5rptattoo_tat_018_F", "ZONE_RIGHT_ARM", 500, 661],
+        ["662", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_010_M", "mp_gta5rptattoo_tat_010_F", "ZONE_RIGHT_ARM", 500, 662],
+        ["663", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_002_M", "mp_gta5rptattoo_tat_002_F", "ZONE_RIGHT_ARM", 500, 663],
+
+        ["665", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_015_M", "mp_gta5rptattoo_tat_015_F", "ZONE_RIGHT_ARM", 500, 665],
+        ["666", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_016_M", "mp_gta5rptattoo_tat_016_F", "ZONE_RIGHT_ARM", 500, 666],
+        ["667", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_021_M", "mp_gta5rptattoo_tat_021_F", "ZONE_RIGHT_ARM", 500, 667],
+        ["668", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_022_M", "mp_gta5rptattoo_tat_022_F", "ZONE_RIGHT_ARM", 500, 668],
+        ["669", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_024_M", "mp_gta5rptattoo_tat_024_F", "ZONE_RIGHT_ARM", 500, 669],
+        ["670", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_025_M", "mp_gta5rptattoo_tat_025_F", "ZONE_RIGHT_ARM", 500, 670],
+        ["671", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_029_M", "mp_gta5rptattoo_tat_029_F", "ZONE_RIGHT_ARM", 500, 671],
+        ["681", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_129_M", "mp_gta5rptattoo_tat_129_F", "ZONE_RIGHT_ARM", 500, 681],
+        ["682", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_130_M", "mp_gta5rptattoo_tat_130_F", "ZONE_RIGHT_ARM", 500, 682],
+        ["683", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_131_M", "mp_gta5rptattoo_tat_131_F", "ZONE_RIGHT_ARM", 500, 683],
+        ["684", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_132_M", "mp_gta5rptattoo_tat_132_F", "ZONE_RIGHT_ARM", 500, 684],
+        ["685", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_133_M", "mp_gta5rptattoo_tat_133_F", "ZONE_RIGHT_ARM", 500, 685],
+        ["686", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_134_M", "mp_gta5rptattoo_tat_134_F", "ZONE_RIGHT_ARM", 500, 686],
+        ["687", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_135_M", "mp_gta5rptattoo_tat_135_F", "ZONE_RIGHT_ARM", 500, 687],
+
+        /* Правая рука мышцы */
+        ["672", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_043_M", "", "ZONE_RIGHT_ARM", 500, 672],
+        ["673", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_044_M", "", "ZONE_RIGHT_ARM", 500, 673],
+        ["674", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_045_M", "", "ZONE_RIGHT_ARM", 500, 674],
+        ["675", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_046_M", "", "ZONE_RIGHT_ARM", 500, 675],
+        ["676", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_063_F", "ZONE_RIGHT_ARM", 500, 676],
+        ["677", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_067_F", "ZONE_RIGHT_ARM", 500, 677],
+        ["678", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_068_F", "ZONE_RIGHT_ARM", 500, 678],
+        ["679", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_069_F", "ZONE_RIGHT_ARM", 500, 679],
+        ["680", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_070_F", "ZONE_RIGHT_ARM", 500, 680],
+
 
 
 
@@ -703,6 +860,21 @@ export const tattoosShared = {
         ["Flaming Quad", "mpstunt_overlays", "MP_MP_Stunt_tat_042_M", "MP_MP_Stunt_tat_042_F", "ZONE_HEAD", 14100, 525],
         ["Skull", "multiplayer_overlays", "FM_Tat_Award_M_000", "FM_Tat_Award_F_000", "ZONE_HEAD", 13900, 526],
 
+        /* №6 Голова [688 - 699] custom */
+        ["688", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_108_M", "mp_gta5rptattoo_tat_108_F", "ZONE_HEAD", 500, 688],
+        ["689", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_109_M", "mp_gta5rptattoo_tat_109_F", "ZONE_HEAD", 500, 689],
+        ["690", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_110_M", "mp_gta5rptattoo_tat_110_F", "ZONE_HEAD", 500, 690],
+        ["691", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_111_M", "mp_gta5rptattoo_tat_111_F", "ZONE_HEAD", 500, 691],
+        ["692", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_112_M", "mp_gta5rptattoo_tat_112_F", "ZONE_HEAD", 500, 692],
+        ["693", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_113_M", "mp_gta5rptattoo_tat_113_F", "ZONE_HEAD", 500, 693],
+        ["694", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_114_M", "mp_gta5rptattoo_tat_114_F", "ZONE_HEAD", 500, 694],
+        ["695", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_115_M", "mp_gta5rptattoo_tat_115_F", "ZONE_HEAD", 500, 695],
+        ["696", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_116_M", "mp_gta5rptattoo_tat_116_F", "ZONE_HEAD", 500, 696],
+        ["697", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_117_M", "mp_gta5rptattoo_tat_117_F", "ZONE_HEAD", 500, 697],
+        ["698", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_118_M", "mp_gta5rptattoo_tat_118_F", "ZONE_HEAD", 500, 698],
+        ["699", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_119_M", "mp_gta5rptattoo_tat_119_F", "ZONE_HEAD", 500, 699],
+
+
 
 
 
@@ -756,6 +928,31 @@ export const tattoosShared = {
         ["Smoking Dagger", "multiplayer_overlays", "FM_Tat_M_026", "FM_Tat_F_026", "ZONE_LEFT_LEG", 14500, 563],
         ["Faith", "multiplayer_overlays", "FM_Tat_M_032", "FM_Tat_F_032", "ZONE_LEFT_LEG", 16100, 564],
         ["Chinese Dragon", "multiplayer_overlays", "FM_Tat_M_033", "FM_Tat_F_033", "ZONE_LEFT_LEG", 13600, 565],
-        ["Grim Reaper", "multiplayer_overlays", "FM_Tat_M_037", "FM_Tat_F_037", "ZONE_LEFT_LEG", 13160, 566]
+        ["Grim Reaper", "multiplayer_overlays", "FM_Tat_M_037", "FM_Tat_F_037", "ZONE_LEFT_LEG", 13160, 566],
+
+        /* №5 Левая нога [700 - 720] custom */
+        ["700", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_023_M", "mp_gta5rptattoo_tat_023_F", "ZONE_LEFT_LEG", 500, 700],
+        ["710", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_137_M", "mp_gta5rptattoo_tat_137_F", "ZONE_LEFT_LEG", 500, 710],
+        ["713", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_170_M", "mp_gta5rptattoo_tat_170_F", "ZONE_LEFT_LEG", 500, 713],
+        ["714", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_171_M", "mp_gta5rptattoo_tat_171_F", "ZONE_LEFT_LEG", 500, 714],
+        ["715", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_172_M", "mp_gta5rptattoo_tat_172_F", "ZONE_LEFT_LEG", 500, 715],
+        ["716", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_173_M", "mp_gta5rptattoo_tat_173_F", "ZONE_LEFT_LEG", 500, 716],
+        ["717", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_174_M", "mp_gta5rptattoo_tat_174_F", "ZONE_LEFT_LEG", 500, 717],
+        ["718", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_175_M", "mp_gta5rptattoo_tat_175_F", "ZONE_LEFT_LEG", 500, 718],
+        ["719", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_176_M", "mp_gta5rptattoo_tat_176_F", "ZONE_LEFT_LEG", 500, 719],
+        ["720", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_177_M", "mp_gta5rptattoo_tat_177_F", "ZONE_LEFT_LEG", 500, 720],
+
+        /* Левая нога мышцы */
+        ["701", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_055_M", "", "ZONE_LEFT_LEG", 500, 701],
+        ["702", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_056_M", "", "ZONE_LEFT_LEG", 500, 702],
+        ["703", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_057_M", "", "ZONE_LEFT_LEG", 500, 703],
+        ["704", "gta5rptattoo_overlays", "mp_gta5rptattoo_tat_058_M", "", "ZONE_LEFT_LEG", 500, 704],
+        ["705", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_079_F", "ZONE_LEFT_LEG", 500, 705],
+        ["706", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_080_F", "ZONE_LEFT_LEG", 500, 706],
+        ["707", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_081_F", "ZONE_LEFT_LEG", 500, 707],
+        ["708", "gta5rptattoo_overlays", "", "mp_gta5rptattoo_tat_082_F", "ZONE_LEFT_LEG", 500, 708],
+
+
+
     ]
 }

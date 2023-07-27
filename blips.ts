@@ -1,4 +1,4 @@
-// import {DynamicBlipOption} from "./dynamicBlip";
+ import {DynamicBlipOption} from "./dynamicBlip";
 import {BUSINESS_TYPE} from "./business";
 import {SELL_FISH_POS} from "./npc.customer";
 import {WEDDING_NAME, WEDDING_POS} from "./wedding";

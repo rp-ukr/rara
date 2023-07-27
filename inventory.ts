@@ -714,7 +714,7 @@ const itemsList: itemConfig[] = [
     { item_id: 24, name: "Пицца", type: ITEM_TYPE.FOOD, weight: 1, base_weight: 50, prop: "prop_pizza_box_01", default_count: 800, use: true, count_use: 400, defaultCost: 200, protect: true },
     { item_id: 25, name: "Банан", type: ITEM_TYPE.FOOD, weight: 1, base_weight: 100, prop: "ng_proc_food_nana1a", default_count: 300, use: true, defaultCost: 90, propAttachParam: [0.170, 0.000, 0.000, 357, 0, 0], protect: true },
     { item_id: 26, name: "Пончики", type: ITEM_TYPE.FOOD, weight: 1, base_weight: 50, prop: "prop_food_cb_donuts", default_count: 500, use: true, count_use: 200, defaultCost: 100, propAttachParam: [0.155, 0.015, 0.040, 281, 17, 88], protect: true  },
-    { item_id: 27, name: "Нагетсы", type: ITEM_TYPE.FOOD, weight: 1, base_weight: 30, prop: "prop_food_cb_nugets", default_count: 500, use: true, defaultCost: 200, propAttachParam: [0.155, 0.015, 0.040, 281, 17, 88], protect: true  },
+    { item_id: 27, name: "Наггетсы", type: ITEM_TYPE.FOOD, weight: 1, base_weight: 30, prop: "prop_food_cb_nugets", default_count: 500, use: true, defaultCost: 200, propAttachParam: [0.155, 0.015, 0.040, 281, 17, 88], protect: true  },
     { item_id: 28, name: "Яблоко", type: ITEM_TYPE.FOOD, weight: 1, prop: "ng_proc_food_aple2a", default_count: 300, use: true, defaultCost: 90, propAttachParam: [0.120, -0.000, -0.025, 327, 0, 0], protect: true  },
     { item_id: 29, name: "Апельсин", type: ITEM_TYPE.FOOD, weight: 1, base_weight: 100, prop: "ng_proc_food_ornge1a", default_count: 90, use: true, defaultCost: 100, propAttachParam: [0.130, 0.000, 0.000, 328, 0, 0], protect: true  },
     { item_id: 30, name: "Сухпаек", type: ITEM_TYPE.FOOD, weight: 1, base_weight: 1000, prop: "prop_food_cb_chips", default_count: 500, use: true}, // Убрать из продажи, добавить армейцам и фибам!!!!
@@ -1321,7 +1321,6 @@ const itemsList: itemConfig[] = [
     { item_id: 7030, name: "Черника", type: ITEM_TYPE.OTHER, weight: 0, base_weight: 400, prop: "ng_proc_food_ornge1a", default_count: 1, protect: true, need_group: true, canSplit: true},
     { item_id: 7031, name: "Еловое бревно", type: ITEM_TYPE.OTHER, weight: 0, base_weight: 400, prop: "ng_proc_food_ornge1a", default_count: 1, protect: true, need_group: true, canSplit: true},
 
-    { item_id: 8000, name: "Комплект автозвука", type: ITEM_TYPE.SYSTEM, weight: 0, base_weight: 1000, prop: "w_ar_railgun_mag1", default_count: 1, use: true, defaultCost: 200000 , protect: true},
     { item_id: 8001, name: "Автопилот", type: ITEM_TYPE.SYSTEM, weight: 0, base_weight: 1000, prop: "w_ar_railgun_mag1", default_count: 1, use: true, defaultCost: 2500000 , protect: true},
 
 

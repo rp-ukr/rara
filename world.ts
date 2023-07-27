@@ -10,11 +10,11 @@ export const WEATHERS_LIST: [weathers, number][] = [
     ['THUNDER', 1],
     ['CLEARING', 3],
 
-    // ['SNOW', 1],
-    // ['BLIZZARD', 1],
-    // ['SNOWLIGHT', 1],
-    // ['HALLOWEEN', 1],
-    // ['XMAS', 1],
+     ['SNOW', 1],
+     ['BLIZZARD', 1],
+     ['SNOWLIGHT', 1],
+     ['HALLOWEEN', 1],
+     ['XMAS', 1],
 ];
 
 /** Включить снег сейчас */
