@@ -7,7 +7,6 @@ import {DUELS_REGISTER_POS} from "./duels";
 import {FINE_AIR_POS, FINE_CAR_POS} from "./fine.car";
 import {TAXI_CONF} from "./taxi";
 import {CONSTRUCTION_REGISTER_POS} from "./construction";
-import {BATTLEROYALE_REGISTER_POSS} from "./battleroyale";
 import {DRIFT_MAP_EXIT} from "./drift";
 
 export interface Contact {
@@ -90,7 +89,6 @@ export const PHONE_GPS_STATIC = [
                 name: "Центры развлечений", items: [
                     ["Гонки", RACE_REGISTER_POS[0].x, RACE_REGISTER_POS[0].y, RACE_REGISTER_POS[0].z],
                     ["Дуэли", DUELS_REGISTER_POS.x, DUELS_REGISTER_POS.y, DUELS_REGISTER_POS.z],
-                    ["BattleRoyale", BATTLEROYALE_REGISTER_POSS[0].x, BATTLEROYALE_REGISTER_POSS[0].y, BATTLEROYALE_REGISTER_POSS[0].z],
                     ["Дрифт", DRIFT_MAP_EXIT.x, DRIFT_MAP_EXIT.y, DRIFT_MAP_EXIT.z],
 
                 ]

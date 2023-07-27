@@ -15,8 +15,6 @@ export const permissions: PermissionConfigPool = {
     "admin:events:system": { admin_level: 2 },
     // Доступ к началу мероприятия "Отвезти сумку" в меню управления мероприятиями
     "admin:boxGameStart:system": { admin_level: 5 },
-    // Доступ к началу мероприятия "BR" в меню управления мероприятиями
-    "admin:battleroyale:system": { admin_level: 4 },
     // Доступ к меню заказов
     "admin:chestorder:access": {admin_level: 5},
     // Дистанционный доступ к складам через админское меню (Без него не получится выполнить перенос склада в другое место)

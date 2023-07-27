@@ -151,7 +151,6 @@ export const ACHIEVEMENT_LIST:AchievementItem[] = [
     { key: 'buyclotches', name: 'Модный но голодный', desc: `Потратить $${systemUtil.numberFormat(1000000)} в магазинах одежды`, max: 1000000, reward: { item: [26], money: 10000, exp: 1 }, type: "buyShopSum", typeBiz: BUSINESS_TYPE.DRESS_SHOP},
     { key: 'buytatu', name: 'Татуированный', desc: `Потратить $${systemUtil.numberFormat(50000)} в тату салонах`, max: 50000, reward: { money: 5000, exp: 1 }, type: "buyShopSum", typeBiz: BUSINESS_TYPE.TATTOO_SALON},
     { key: 'buybarber', name: 'Ухоженный', desc: `Потратить $${systemUtil.numberFormat(50000)} в барбер шопах`, max: 50000, reward: { money: 5000, exp: 1 }, type: "buyShopSum", typeBiz: BUSINESS_TYPE.BARBER},
-    { key: 'winsbattle', name: 'Нагибатор', desc: 'Победить 20 BattleRoyale', max: 20, reward: { item: [532, 1601, 1101, 1102, 1005, 1100, 860], money: 250000 }, type: "brCount"},
     { key: 'winsplacerace', name: 'Вин Дизель', desc: 'Занять 100 раз призовое место в гонках', max: 100, reward: { item: [815], money: 50000, exp: 2 }, type: "raceWinPLace"},
     { key: 'winsrace', name: 'Шумахер', desc: 'Победить в гонке', max: 1, reward: { item: [815], money: 2000 }, type: "raceFirst"},
     { key: 'sellcarsruki', name: 'Перекуп', desc: 'Продать 5 автомобилей игроку', max: 5, reward: { item: [817, 815], money: 10000 }, type: "vehSellPlayer"},
